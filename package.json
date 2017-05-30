@@ -1,0 +1,25 @@
+{
+  "name": "@dren79/how-to-npm",
+  "version": "1.0.0",
+  "description": "how to npm excercises",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "dren79",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dren79/npmEx.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "bugs": {
+    "url": "https://github.com/dren79/npmEx/issues"
+  },
+  "homepage": "https://github.com/dren79/npmEx#readme",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
